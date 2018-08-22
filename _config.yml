@@ -1,0 +1,12 @@
+# Site settings
+title: Mothra's List
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+ A website with the good things on the internet so Mothra doesn't have to go looking for them.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mothra.click" # the base hostname & protocol for your site
+twitter_username: nimwunnan
+github_username:  nimwunnan
+
+# Build settings
+markdown: kramdown

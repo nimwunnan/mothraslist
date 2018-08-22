@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="home">
+    {% for post in site.posts %}
+        <h2>{{ post.date | date: "%b %-d, %Y" }}</h2>
+        <hr>
+        {{ post.content }}
+        <hr>
+    {% endfor %}
+</div>
