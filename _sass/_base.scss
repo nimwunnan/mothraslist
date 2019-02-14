@@ -21,6 +21,14 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    // &:after {
+    //   content: "sex" !important;
+    //   position: absolute;
+    //   left: 50%;
+    //   top: 50%;
+    //   color: pink;
+    //   font-size: 3em;
+    // }
 }
 
 
